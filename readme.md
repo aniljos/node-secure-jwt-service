@@ -1,6 +1,6 @@
 # Node Express
 #### See the package.json for the scrips to execute.
 
-## npm install
-## npm start
+#### Run command  "npm install" to install dependencies 
+#### Run command  "npm start" to start the service
 ```
